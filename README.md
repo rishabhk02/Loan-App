@@ -78,11 +78,7 @@ git clone https://github.com/rishabhk02/Loan-App.git
 ---
 
 **Admin Signup Note:**  
-Currently, to enable admin access, you need to manually change the role of a user to `ADMIN` in the database. For convenience, you can use the following credentials to log in to the admin dashboard:
-
-- **Admin Email:** `adminvirat@gmail.com`
-- **Admin Password:** `Admin@123`
-
+Currently, to enable admin access, you need to manually change the role of a user to `ADMIN` in the database.
 For general user access, simply register through the signup page.
 
 
